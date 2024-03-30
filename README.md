@@ -1,4 +1,4 @@
-# GeoNode Share Add-on for Blender
+# SEND NODES Add-on for Blender
 
 This Blender add-on enables users to export and import geometry node groups as serialized code snippets, enhancing collaboration and efficiency.
 
